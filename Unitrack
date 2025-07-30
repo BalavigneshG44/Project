@@ -1,1 +1,5 @@
-Welcome
+Welcome to Unitrack 
+git clone "project url"
+git add . or git add read me.md  
+git commit -m "notes"
+git push orgin maim
